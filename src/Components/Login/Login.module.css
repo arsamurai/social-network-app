@@ -1,0 +1,58 @@
+.loginTitle {
+  color: #47525e;
+  font-size: 26px;
+  line-height: 33px;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+.loginForm {
+  margin: 0 auto;
+  max-width: 250px;
+  width: 100%;
+}
+
+.captchaURLInput,
+.loginInput,
+.passwordInput {
+  width: 100%;
+  padding: 10px;
+}
+
+.passwordInput {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.captchaURL {
+  margin-bottom: 10px;
+}
+
+.rememberMe {
+  margin-bottom: 20px;
+}
+
+.formBtn {
+  text-align: center;
+}
+
+.btn {
+  background-color: #0cb658;
+  width: 112px;
+  height: 27px;
+  font-size: 20px;
+  line-height: 22px;
+  border: 0;
+  outline: 0;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+}
+
+.formSummaryError {
+  border: 2px solid red;
+  padding: 5px;
+  color: red;
+  margin-bottom: 20px;
+}

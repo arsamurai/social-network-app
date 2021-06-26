@@ -1,0 +1,17 @@
+.title {
+  color: #47525e;
+  font-size: 26px;
+  line-height: 33px;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+.settings__inner__item {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.change__photo {
+  padding: 0 10px;
+}

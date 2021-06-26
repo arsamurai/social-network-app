@@ -1,0 +1,70 @@
+.title {
+  color: #47525e;
+  font-size: 26px;
+  line-height: 33px;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+.users__items {
+  padding: 30px;
+}
+
+.user__item {
+  display: flex;
+  margin-top: 50px;
+}
+
+.user__item:first-child {
+  margin-top: 0;
+}
+
+.user__photo {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 17px;
+  display: block;
+}
+
+.fw__btn {
+  background-color: #13ce66;
+  width: 100px;
+  height: 31px;
+  color: #ffffff;
+  font-size: 22px;
+  line-height: 28px;
+  cursor: pointer;
+  outline: none;
+  border: 0;
+}
+
+.info__box_2 {
+  padding: 9px 12px;
+  border: 2px solid #c0ccda;
+  border-radius: 10px;
+  max-width: 600px;
+  width: 100%;
+  margin-left: 40px;
+  display: flex;
+  justify-content: space-between;
+  line-height: 30px;
+}
+
+.nameAndStatus {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.user__status {
+  color: #8190a5;
+  font-size: 18px;
+}
+
+.bolder {
+  color: #8190a5;
+  font-weight: 600;
+  font-size: 21px;
+}

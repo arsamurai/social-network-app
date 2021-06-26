@@ -1,0 +1,33 @@
+.paginator {
+  display: flex;
+  justify-content: center;
+  height: 25px;
+  align-items: center;
+}
+
+.pageNumber {
+  font-size: 20px;
+  padding: 2px;
+  cursor: pointer;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.pageNumber.selectedPage {
+  font-weight: 700;
+}
+
+.arrow_btn {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.arrow {
+  width: 50px;
+}
+
+.leftArrow {
+  transform: rotate(180deg);
+}
